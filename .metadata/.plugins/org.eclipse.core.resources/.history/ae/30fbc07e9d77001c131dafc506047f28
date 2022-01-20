@@ -1,0 +1,16 @@
+package com.test1;
+
+import com.mysql.cj.jdbc.Driver;
+import com.mysql.cj.jdbc.NonRegisteringDriver;
+
+public class hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println( "Hello World!" );
+
+
+	}
+
+}

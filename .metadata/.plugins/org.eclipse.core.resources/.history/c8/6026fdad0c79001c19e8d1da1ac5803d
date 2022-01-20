@@ -1,0 +1,13 @@
+package com.test1;
+
+public class Employee{  
+	Address address;  
+	  
+	Employee(Address address){  
+	this.address=address;  
+	}  
+	public void setAddress(Address address){  
+	this.address=address;  
+	}  
+	  
+}  
